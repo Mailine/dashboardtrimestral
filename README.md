@@ -1,1 +1,3 @@
-# dashboardtrimestral
+# Case
+
+https://app.powerbi.com/view?r=eyJrIjoiYzU4NmU4YmYtOWFkMi00MTViLTg2YzktZjk4YjU5YWY3NGRmIiwidCI6IjZiMDAxNWU0LWRkZDEtNDE3Ny1hYjM1LTQ0ZDVmNzlhYWIwNSJ9
